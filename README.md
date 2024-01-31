@@ -12,6 +12,8 @@ Created a simple web app which displays
 ## Screenshots
 
 ![App Screenshot](https://github.com/shreegs123/Guvi_Interview_Task/blob/main/T1.png)
+![App Screenshot](https://github.com/shreegs123/Guvi_Interview_Task/blob/main/t2.png)
+![App Screenshot](https://github.com/shreegs123/Guvi_Interview_Task/blob/main/t3.png)
 
 
 
